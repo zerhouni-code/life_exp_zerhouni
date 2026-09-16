@@ -1,0 +1,4 @@
+.Renviron
+*.Rhistory
+data/big_file.csv
+*.log
